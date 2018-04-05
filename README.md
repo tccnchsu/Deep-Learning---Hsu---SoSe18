@@ -3,11 +3,19 @@ Deep Learning - Hsu - SoSe18
 
 https://elearning.uni-regensburg.de/login/index.php
 
+https://nvidia.qwiklab.com/users/sign_in?locale=en
 
 TensorFlow Tutorial
 Welcome to the TensorFlow Tutorial.
 
+Installing TensorFlow
+
+https://www.tensorflow.org/
+https://github.com/tensorflow/tensorflow/tree/r1.5
+ 
 Please install TensorFlow on your computer before you arrive.
 
+
+Linear Regression
 # https://github.com/sherrym/tf-tutorial
 
