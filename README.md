@@ -1,6 +1,9 @@
 # Deep-Learning---Hsu---SoSe18
 Deep Learning - Hsu - SoSe18
 
+https://elearning.uni-regensburg.de/login/index.php
+
+
 TensorFlow Tutorial
 Welcome to the TensorFlow Tutorial.
 
