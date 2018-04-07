@@ -23,5 +23,5 @@ Cloud Latex
 https://www.sharelatex.com/
 Tutoriels LaTeX
 http://jobonne.org/index1.html
-
-
+Logic gate
+https://en.wikipedia.org/wiki/Logic_gate
