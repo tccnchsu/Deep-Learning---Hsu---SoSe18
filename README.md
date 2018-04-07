@@ -19,3 +19,9 @@ Please install TensorFlow on your computer before you arrive.
 Linear Regression
 # https://github.com/sherrym/tf-tutorial
 
+Cloud Latex 
+https://www.sharelatex.com/
+Tutoriels LaTeX
+http://jobonne.org/index1.html
+
+
