@@ -25,3 +25,10 @@ Tutoriels LaTeX
 http://jobonne.org/index1.html
 Logic gate
 https://en.wikipedia.org/wiki/Logic_gate
+
+2018/4/9
+Binary Clasification/Logistic Regression
+Bishop: Pattern Recognition and Machine Learning
+Page 82,231
+Oreilly-Learning-TensorFlow
+https://github.com/Hezi-Resheff/Oreilly-Learning-TensorFlow
