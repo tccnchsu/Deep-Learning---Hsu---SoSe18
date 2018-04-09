@@ -28,6 +28,11 @@ https://en.wikipedia.org/wiki/Logic_gate
 
 2018/4/9
 Binary Clasification/Logistic Regression
+
+The use of the logistic sigmoid activation function allows the outputs
+of the discriminant to be interpreted as posterior probabilities P(Xi|X), i=0,1
+
+Reference:
 Bishop: Pattern Recognition and Machine Learning
 Page 82,231
 Oreilly-Learning-TensorFlow
