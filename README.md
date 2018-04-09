@@ -37,3 +37,23 @@ Bishop: Pattern Recognition and Machine Learning
 Page 82,231
 Oreilly-Learning-TensorFlow
 https://github.com/Hezi-Resheff/Oreilly-Learning-TensorFlow
+
+
+============================================================
+If you use windows, I suggest you to install  anaconda.
+
+https://www.anaconda.com/download/
+
+Please open anaconda prompt after you have installed anaconda.
+
+Setting environment:
+
+for example:
+
+conda create -n py36 python=3.6 
+
+https://conda.io/docs/user-guide/tasks/manage-python.html
+
+conda install matplotlib
+
+https://anaconda.org/conda-forge/matplotlib
