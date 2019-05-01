@@ -1,6 +1,9 @@
 # Deep-Learning---Hsu---SoSe18
 Deep Learning - Hsu - SoSe18
 
+Tensorflow Tutorial 2: image classifier using convolutional neural network
+https://cv-tricks.com/tensorflow-tutorial/training-convolutional-neural-network-for-image-classification/
+
 https://elearning.uni-regensburg.de/login/index.php
 
 https://nvidia.qwiklab.com/users/sign_in?locale=en
